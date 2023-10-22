@@ -1,0 +1,32 @@
+.navbar-button {
+  background: transparent !important;
+  color: gray;
+  outline: none !important;
+  border: none !important;
+  font-size: larger;
+}
+
+.navbar-button:hover {
+  background: #f2f2f2;
+  color: black;
+  outline: none !important;
+  border: none !important;
+}
+
+.navbar-brand:hover {
+  cursor: pointer;
+}
+
+.card {
+  border-width: 0.5px !important;
+  border-radius: 0px !important;
+  box-shadow: 0px 1.5px 2px #888888;
+}
+
+.order-icon:hover {
+  cursor: pointer;
+}
+
+td {
+  vertical-align: middle;
+}
